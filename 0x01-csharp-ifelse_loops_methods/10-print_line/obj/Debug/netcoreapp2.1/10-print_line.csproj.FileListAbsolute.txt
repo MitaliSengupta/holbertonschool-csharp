@@ -1,0 +1,11 @@
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/bin/Debug/netcoreapp2.1/10-print_line.deps.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/bin/Debug/netcoreapp2.1/10-print_line.runtimeconfig.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/bin/Debug/netcoreapp2.1/10-print_line.runtimeconfig.dev.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/bin/Debug/netcoreapp2.1/10-print_line.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/bin/Debug/netcoreapp2.1/10-print_line.pdb
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/obj/Debug/netcoreapp2.1/10-print_line.csprojAssemblyReference.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/obj/Debug/netcoreapp2.1/10-print_line.csproj.CoreCompileInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/obj/Debug/netcoreapp2.1/10-print_line.AssemblyInfoInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/obj/Debug/netcoreapp2.1/10-print_line.AssemblyInfo.cs
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/obj/Debug/netcoreapp2.1/10-print_line.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/10-print_line/obj/Debug/netcoreapp2.1/10-print_line.pdb

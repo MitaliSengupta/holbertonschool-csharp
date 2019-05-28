@@ -1,0 +1,11 @@
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.deps.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.runtimeconfig.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.runtimeconfig.dev.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.pdb
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.csprojAssemblyReference.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.csproj.CoreCompileInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.AssemblyInfoInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.AssemblyInfo.cs
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.pdb

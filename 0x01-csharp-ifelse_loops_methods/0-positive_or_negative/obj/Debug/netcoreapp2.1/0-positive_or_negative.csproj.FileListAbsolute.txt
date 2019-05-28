@@ -1,0 +1,11 @@
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.deps.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.runtimeconfig.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.runtimeconfig.dev.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.pdb
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csprojAssemblyReference.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csproj.CoreCompileInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfoInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfo.cs
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.pdb
