@@ -15,11 +15,11 @@
 ## Tasks
 
 -   Write a method that creates and prints an array of integers of a given size.
-  -   Class Name: Array
-  -   Prototype: public static int[] CreatePrint(int size)
-  -   Returns the new array
-  -   The integers in the array should start with 0 and increment by one until the given size is met (see output below)
-  -   If size is less than 0, print Size cannot be negative and return null
+    -   Class Name: Array
+    -   Prototype: public static int[] CreatePrint(int size)
+    -   Returns the new array
+    -   The integers in the array should start with 0 and increment by one until the given size is met (see output below)
+    -   If size is less than 0, print Size cannot be negative and return null
 
 -   Write a method that retrieves an element from an array.
   -   Class Name: Array
