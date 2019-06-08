@@ -120,7 +120,7 @@
         -   Prototype: public static LinkedListNode<int> Insert(LinkedList<int> myLList, int n)
         -   Returns the newly created node
 
--   [13-linkedlist_delete]https://github.com/MitaliSengupta/holbertonschool-csharp/tree/master/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete)
+-   [13-linkedlist_delete](https://github.com/MitaliSengupta/holbertonschool-csharp/tree/master/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete)
     -   Write a method that deletes the node at given position in a LinkedList.
         -   Class Name: LList
         -   Prototype: public static void Delete(LinkedList<int> myLList, int index)
