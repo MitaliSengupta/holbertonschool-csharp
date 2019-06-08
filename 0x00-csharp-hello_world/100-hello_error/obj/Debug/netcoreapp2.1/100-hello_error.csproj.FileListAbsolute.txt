@@ -1,0 +1,11 @@
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.deps.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.dev.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.pdb
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csprojAssemblyReference.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csproj.CoreCompileInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfoInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfo.cs
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.pdb
