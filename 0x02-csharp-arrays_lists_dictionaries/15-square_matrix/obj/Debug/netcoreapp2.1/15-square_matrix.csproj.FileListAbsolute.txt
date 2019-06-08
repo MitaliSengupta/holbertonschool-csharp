@@ -1,0 +1,11 @@
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.csprojAssemblyReference.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.csproj.CoreCompileInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.AssemblyInfoInputs.cache
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.AssemblyInfo.cs
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.deps.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.runtimeconfig.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.runtimeconfig.dev.json
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.pdb
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.dll
+/mnt/c/Users/mital/Desktop/Holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.pdb
