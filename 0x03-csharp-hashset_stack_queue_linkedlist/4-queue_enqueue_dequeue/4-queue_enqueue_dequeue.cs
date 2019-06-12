@@ -5,7 +5,7 @@ class MyQueue
 {
     public static Queue<string> Info(Queue<string> aQueue, string newItem, string search)
     {
-        if (aQueue.Count < 0)
+        if (aQueue.Count <= 0)
         {
             Console.WriteLine("Queue is empty");
         }
