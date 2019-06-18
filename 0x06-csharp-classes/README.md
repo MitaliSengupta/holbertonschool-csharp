@@ -71,3 +71,20 @@
             -   get: retrieve name
             -   set: set name
         -   public method public int GetHealth() that returns the value of health of the Zombie object
+
+-   [5-enemy](https://github.com/MitaliSengupta/holbertonschool-csharp/tree/master/0x06-csharp-classes/5-enemy)
+    -   Based on 4-enemy, write a public class Zombie that defines a zombie by:
+        -   private field health
+        -   health should be an int and have no value
+        -   public constructor: public Zombie()
+            -   sets the value of health to 0
+        -   public constructor: public Zombie(int value)
+        -   value must be greater than or equal to 0
+        -   private field name
+        -   name should be a string and have a default value of (No name)
+        -   public property Name
+            -   get: retrieve name
+            -   set: set name
+        -   public method public int GetHealth() that returns the value of health of the Zombie object
+        -   public .toString() override that prints the Zombie object’s attributes to stdout
+            -   Format: Zombie name: <name> / Health: <health> (see example below)
