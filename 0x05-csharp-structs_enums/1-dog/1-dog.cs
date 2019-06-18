@@ -1,12 +1,10 @@
 ﻿using System;
 
-namespace _1_dog
+public enum Rating {Good, Great, Excellent};
+public struct Dog
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+    public string name;
+    public float age;
+    public string owner;
+    public Rating rating;
 }
