@@ -28,8 +28,8 @@
     -   Based on 2-dog, override the .ToString() method to print the Dog object’s attributes to stdout.
     ```
         Format:
-        Dog Name: **<name>**
-        Age: **<age>**
-        Owner: **<owner>**
-        Rating: **<rating>**
+        Dog Name: <name>
+        Age: <age>
+        Owner: <owner>
+        Rating: <rating>
     ```
