@@ -1,12 +1,18 @@
 ﻿using System;
 
-namespace _1_enemy
+namespace Enemies
 {
-    class Program
+    /// <summary>
+    /// adding fields and constructor to the class setting the default values to zero
+    /// </summary>
+    public class Zombie
     {
-        static void Main(string[] args)
+        ///<summary> defining a public field for zombie called health </summary>///
+        public int health;
+        /// <summary> setting the health to 0 via the constructor </summary>///
+        public Zombie()
         {
-            Console.WriteLine("Hello World!");
+            health = 0;
         }
     }
 }
